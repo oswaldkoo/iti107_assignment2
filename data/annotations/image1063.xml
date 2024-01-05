@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image1063.png</filename>
+	<path>C:\Users\Oswald\Desktop\NYP\PDC2\ITI107 Deep Learning Networks\Assignment2\images\image1063.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>105</ymin>
+			<xmax>232</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image23.png</filename>
+	<path>C:\Users\Oswald\Desktop\NYP\PDC2\ITI107 Deep Learning Networks\Assignment2\images\image23.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>256</ymin>
+			<xmax>155</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

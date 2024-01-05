@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image135.png</filename>
+	<path>C:\Users\Oswald\Desktop\NYP\PDC2\ITI107 Deep Learning Networks\Assignment2\images\image135.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>95</ymin>
+			<xmax>175</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>82</ymin>
+			<xmax>248</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
